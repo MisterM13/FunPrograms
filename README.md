@@ -6,9 +6,7 @@ to compile the Programs:
 ---
 AdventCalendar:
 
-`javac AdventCalendar.java`
-
-`java AdventCalendar`
+see [README.md](AdventCalendar/README.md)
 
 ---
 Matrixwriter:
@@ -18,5 +16,5 @@ Matrixwriter:
 `java Matrixwriter`
 
 ## Aditional Notes
-* If its not Advent, the AdventCalender won't show anything.
+
 * For optimal displaying the Matrix, you can adjust the Matrixwriter to your Screen (explained in the Sourcecode of the Program).
