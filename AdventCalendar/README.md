@@ -1,8 +1,4 @@
 
-
-
-
-
 # Advent Calendar 
 
 This is a little Project I made for Christmas, to share joy and fun with programming. Lets get Christmas. 
@@ -11,7 +7,7 @@ This is a little Project I made for Christmas, to share joy and fun with program
 ## Usage:
 
 ### For Mac users:
-Just click on the `AdventCaledar` app. (With the tree Icon) The rest should work by itself. Pleas make shure, that the path to this Directory has no spaces in it. (No directories with two or more separated names)
+Just open the `AdventCaledar` app. The rest should work by itself. Pleas make shure, that the path to this Directory has no spaces in it. (No directories with two or more separated names)
 
 ### For all others:
 Run the AdventCalendar.java direct from console:
@@ -24,8 +20,8 @@ java AdventCalendar
 If it's not advent, the program only prints a black Christmas tree. The Program automatically knows which day of advent it is.
 
 Languages used:
-: java 
-: bash
+- java 
+- bash
 
 Tested under macOS Catalina (10.15.4), jdk 13.0.1
 
