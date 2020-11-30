@@ -232,7 +232,7 @@ static	String line23b = "\033[0;32m                                             
 		SimpleDateFormat formatter = new SimpleDateFormat("MMdd");  
 			Date date = new Date();  
 			int dayx = Integer.parseInt(formatter.format(date));
-			System.out.println(dayx);
+			//System.out.println(dayx);
 			if (dayx-1200 < 0) {
 				dayX=0;
 			}else {
@@ -242,7 +242,8 @@ static	String line23b = "\033[0;32m                                             
 	} 
 	
 	public static void main(String[] args) {
-		//day = date();
+		day = date();
+		//System.out.println(day);
 		try {
 			day = Integer.parseInt(args[0]);
 		} catch (Exception e) {
