@@ -19,6 +19,7 @@ java AdventCalendar
 ## Notes:
 If it's not advent, the program only prints a black Christmas tree. The Program automatically knows which day of advent it is.
 To run the Advent Calendar java is needed. You can download it [here.](https://www.oracle.com/java/technologies/javase-downloads.html)
+Java maybe needs a helper to install itself on the system.
 
 Languages used:
 - java 
